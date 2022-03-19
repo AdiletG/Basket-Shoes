@@ -1,0 +1,53 @@
+.section{
+    padding: 45px 60px ;
+}
+
+.tab{
+    border-radius: 20px;
+    background: #F4EFE9;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.miniLogoImg{
+     position: absolute;
+    left: 20px;
+    top: 16px;
+}
+
+.titleBox{
+    width: 40%;
+    padding: 88px 0 52px 61px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+
+}
+
+.tabTitle{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+}
+
+.button{
+    width: 177px;
+    height: 47px;
+    background: #A5D364;
+    border-radius: 110px;
+    border: none;
+    outline: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.stanImg{
+    width: 60%;
+}
